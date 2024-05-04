@@ -1,0 +1,32 @@
+.profile-pic{
+    object-fit: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top:15px;
+  padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 10px;
+ background-color: #f0f2f5 ;
+}
+.menu-header{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #54656f;
+}
+.menu-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chats{
+   
+    background-color: white ;
+}

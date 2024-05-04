@@ -1,0 +1,14 @@
+.container{
+  z-index: 100000;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  top: 20px;
+  bottom: 20px;
+  background-color: #f0f2f5 ;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  overflow: hidden;
+}
+
+/* header iconsvar() */
